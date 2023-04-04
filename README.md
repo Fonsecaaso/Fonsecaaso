@@ -14,7 +14,7 @@ Backend Software Engineer | Computer Engineer Student @ University of São Paulo
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   
 - Storages: 
-  ![postgresql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
   ![s3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=FFFFFF)
   
 - Cloud & Ops: 
