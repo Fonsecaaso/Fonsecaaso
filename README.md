@@ -9,8 +9,9 @@ Backend Software Engineer | Computer Engineer Student @ University of São Paulo
 ### apt list --installed
 
 - Languages: 
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logologo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   
 - Storages: 
   ![postgresql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF)
