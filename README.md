@@ -2,11 +2,11 @@
 
 Here you'll find some projects I'm working on
 
-### whoami
+### 👨‍🦱 who am i
 
-Backend Software Engineer | Computer Engineer Student @ University of São Paulo
+Backend Software Engineer | Computer Engineer Student @ University of São Paulo | Delighted with Nature
 
-### apt list --installed
+### :hammer: stack
 
 - Languages: 
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -19,7 +19,10 @@ Backend Software Engineer | Computer Engineer Student @ University of São Paulo
   
 - Cloud & Ops: 
   ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
-  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+  
+- Messaging:
+  ![kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=FFFFFF)
 
 
 
