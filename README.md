@@ -24,3 +24,4 @@ Backend Software Engineer | Computer Engineer Student @ University of São Paulo
 - Messaging:
   ![kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=FFFFFF)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fonsecaaso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
