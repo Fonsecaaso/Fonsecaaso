@@ -13,11 +13,13 @@ Backend Software Engineer | Computer Engineer Student @ University of São Paulo
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=J&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-CC9933?style=flat&logo=javascript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-572E8A?style=flat&logo=csharp&logoColor=white)
 
 - Frameworks: 
   ![Spring](https://img.shields.io/badge/Spring-5aaf2f?style=flat&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-00cdf2?style=flat&logo=react&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-f22500?style=flat&logo=keras&logoColor=white)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
   
 - Storages: 
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
