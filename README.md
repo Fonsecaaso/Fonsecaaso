@@ -8,8 +8,8 @@ Backend Software Engineer | Computer Engineer Student @ University of São Paulo
 
 ### :hammer: stack
 
-- Languages: 
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- Languages:
+  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=J&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-CC9933?style=flat&logo=javascript&logoColor=white)
@@ -21,7 +21,8 @@ Backend Software Engineer | Computer Engineer Student @ University of São Paulo
   ![Keras](https://img.shields.io/badge/Keras-f22500?style=flat&logo=keras&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
   
-- Storages: 
+- Storages:
+  ![Clickhouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
   ![s3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=FFFFFF)
   
