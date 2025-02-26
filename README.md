@@ -1,10 +1,9 @@
-## bienvenue 👋
+## Bienvenue 👋
 
-Here you'll find some projects I'm working on
+Welcome to my GitHub! Here you'll find projects I'm working on, from backend development to data engineering.
+## 👨‍💻 About Me
 
-### 👨‍🦱 who am i
-
-Backend Software Engineer | Computer Engineer Student @ University of São Paulo | Delighted with Nature
+I'm a Backend Software Engineer with a strong foundation in computer engineering (B.Sc. from University of São Paulo). I love solving complex problems, designing scalable systems, and writing clean, efficient code. Passionate about distributed systems, cloud computing, and high-performance applications.
 
 ### :hammer: stack
 
