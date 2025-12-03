@@ -24,8 +24,9 @@ Here you’ll find experiments, side projects, and things I break and fix along 
   ![s3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=FFFFFF)
   
 - Cloud & Ops: 
+  [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
   ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
-  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+  
   
 - Messaging:
   ![kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=FFFFFF)
