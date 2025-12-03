@@ -1,9 +1,9 @@
-## Bienvenue 👋
+### Bienvenue 👋
 
-Welcome to my GitHub! Here you'll find projects I'm working on, from backend development to data engineering.
-## 👨‍💻 About Me
+I’m a backend engineer who enjoys building fast, reliable and scalable services.
+Graduated in Computer Engineering (USP) and passionate about distributed systems, cloud, and high-performance architectures.
 
-I'm a Backend Software Engineer with a strong foundation in computer engineering (B.Sc. from University of São Paulo). I love solving complex problems, designing scalable systems, and writing clean, efficient code. Passionate about distributed systems, cloud computing, and high-performance applications.
+Here you’ll find experiments, side projects, and things I break and fix along the way.
 
 ### :hammer: stack
 
