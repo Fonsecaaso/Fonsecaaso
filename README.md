@@ -20,12 +20,14 @@ Here you’ll find experiments, side projects, and things I break and fix along 
   
 - Storages:
   ![Clickhouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
   ![s3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=FFFFFF)
   
 - Cloud & Ops: 
   [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
   ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
+  [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
+  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
   
   
 - Messaging:
